@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucash2
+- 👀 I'm interested in sharing my evolution in programming
+- 🌱 I’m currently learning HTML , CSS , JavaScript.
+- 📫 How to reach me: lucash.prog@gmail.com
